@@ -1,6 +1,6 @@
 ## Considerações
 
-- Tutorial direcionado para um pessoa física, visto que a modalidade jurídica seria escopo para outra documentação.
+- Tutorial direcionado para uma pessoa física, visto que a modalidade jurídica seria escopo para outra documentação.
 
 - Optei em escrevê-lo de forma sucinta, objetiva e observando os guias de estilo recomendado no desafio, linquei os tópicos abordados no índice, pois considerei que a maioria das pessoas procuram informações imediatas devido alguns fatores presentes no dia a dia, um deles: a pressa.
 
